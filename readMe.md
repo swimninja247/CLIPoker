@@ -1,6 +1,6 @@
-Noah Czelusta
-nhc2117
-ReadMe.txt for Project 4
+# CLI Poker
+
+This is a poker game for the command line written in Java.  Below is extensive documentation for every single class and method.
 
 Card.java
 
